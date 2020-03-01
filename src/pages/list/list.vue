@@ -29,7 +29,8 @@
 		},
     data() {
       return {
-				username:"aaa"
+				username:"aaa",
+				password:"bbb"
 			}
     },
 		beforeMount(){
