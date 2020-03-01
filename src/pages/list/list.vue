@@ -29,7 +29,7 @@
 		},
     data() {
       return {
-
+				username:"aaa"
 			}
     },
 		beforeMount(){
